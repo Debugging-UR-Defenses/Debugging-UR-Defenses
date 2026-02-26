@@ -1,11 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00ff41,100:0d1117&height=300&section=header&text=DEBUGGING-UR-DEFENSES&fontSize=60&fontColor=00ff41&fontAlignY=50&animation=twinkling&stroke=00ff41&strokeWidth=2" width="100%" />
-
-</div>
-
-<div align="center">
-
 <a href="https://github.com/Debugging-UR-Defenses">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1200&pause=400&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=160&lines=%24+whoami;%E2%94%94%E2%94%80%E2%94%80+Debugging-UR-Defenses+%7C+Security+Engineer;%24+cat+%2Fetc%2Fmotd;%E2%94%94%E2%94%80%E2%94%80+I+break+things+so+you+don't+have+to;%24+_" alt="Typing SVG" />
 </a>
@@ -17,6 +11,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 </div>
+
+<br>
 
 <div align="center">
 
@@ -31,41 +27,26 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9c8f30cdb576fa273fe52d5945d0fb/images/footer.svg" width="100%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-widgetbox.vercel.app/api/profile?username=Debugging-UR-Defenses&data=followers,repositories,stars,commits&theme=nautilus" width="100%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9c8f30cdb576fa273fe52d5945d0fb/images/footer.svg" width="100%" />
-
-</div>
-
-<div align="center">
-
 ### `> ls -la ~/arsenal/`
 
 </div>
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,ts,bash,react,docker,azure,postgres,nginx&perline=8&theme=dark" />
-
-</div>
-
 <br>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,vim,git,vscode,kubernetes,redis,fastapi,tailwind&perline=8&theme=dark" />
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff41)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00d4ff)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=00ff41)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00d4ff)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Azure](https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00d4ff)
+![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=009639)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
 
 </div>
 
@@ -88,7 +69,19 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9c8f30cdb576fa273fe52d5945d0fb/images/footer.svg" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
@@ -113,7 +106,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9c8f30cdb576fa273fe52d5945d0fb/images/footer.svg" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 </div>
 
@@ -130,11 +123,5 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Debugging-UR-Defenses&color=00ff41&style=for-the-badge&label=WATCHERS)
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00ff41,100:0d1117&height=150&section=footer&animation=twinkling" width="100%" />
 
 </div>
