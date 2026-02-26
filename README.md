@@ -1,12 +1,16 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00ff41&height=180&section=header" width="100%" />
+
 <a href="https://github.com/Debugging-UR-Defenses">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%3E_+Debugging-UR-Defenses" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=600&height=60&lines=%3E_+Debugging-UR-Defenses" alt="Typing SVG" />
 </a>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=14&duration=4000&pause=2000&color=6B7280&center=true&vCenter=true&repeat=false&width=500&height=30&lines=Security+Engineer+%7C+Cloud+%7C+Offensive+Security+%7C+AI+Pentesting" alt="Subtitle" />
+<a href="https://github.com/Debugging-UR-Defenses">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3000&pause=1500&color=00d4ff&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Security+Engineer+%E2%80%A2+Cloud+%E2%80%A2+Offensive+Security+%E2%80%A2+AI+Pentesting" alt="Subtitle" />
+</a>
 
 </div>
 
@@ -14,19 +18,23 @@
 
 <!-- ═══════════════════ ABOUT ═══════════════════ -->
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="60%" />
+</div>
+
 <table align="center">
 <tr>
 <td>
 
-### 🛡️ &nbsp; About
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Awal/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="25" /> &nbsp; About</h3>
 
+```diff
++ I build tools that find vulnerabilities before attackers do.
 ```
-I build tools that find vulnerabilities before attackers do.
-```
 
-Security engineer focused on cloud infrastructure and offensive security tooling. I design and build AI-assisted penetration testing systems that automate reconnaissance, vulnerability assessment, and exploit validation at scale.
+Security engineer focused on **cloud infrastructure** and **offensive security tooling**. I design and build AI-assisted penetration testing systems that automate reconnaissance, vulnerability assessment, and exploit validation at scale.
 
-**Currently working on** autonomous security scanning platforms that combine traditional pentesting tools with AI-powered classification engines — turning raw tool output into actionable intelligence.
+🔬 **Currently building** → autonomous security scanning platforms that combine traditional pentesting tools with AI-powered classification engines — turning raw tool output into actionable intelligence.
 
 </td>
 </tr>
@@ -40,7 +48,7 @@ Security engineer focused on cloud infrastructure and offensive security tooling
 <tr>
 <td width="50%">
 
-### ⚡ &nbsp; Offensive Tooling
+<h3>🔴 &nbsp; Offensive Tooling</h3>
 
 ```python
 # The stack I use to break things
@@ -52,12 +60,12 @@ offensive = {
 }
 ```
 
-Building security testing frameworks that chain these tools together with intelligent orchestration and result classification.
+> _Building security testing frameworks that chain tools together with intelligent orchestration and AI-powered result classification._
 
 </td>
 <td width="50%">
 
-### 🏗️ &nbsp; Platform Engineering
+<h3>🔵 &nbsp; Platform Engineering</h3>
 
 ```javascript
 // The stack I use to build things
@@ -69,7 +77,7 @@ const platform = {
 };
 ```
 
-Full-stack security platforms with real-time dashboards, compliance reporting, and automated remediation workflows.
+> _Full-stack security platforms with real-time dashboards, compliance reporting, and automated remediation workflows._
 
 </td>
 </tr>
@@ -79,38 +87,15 @@ Full-stack security platforms with real-time dashboards, compliance reporting, a
 
 <!-- ═══════════════════ FOCUS AREAS ═══════════════════ -->
 
-<table align="center">
-<tr>
-<td align="center" width="25%">
+<div align="center">
 
-**🔴 Red Team**
+| 🔴 **Red Team** | ☁️ **Cloud Security** | 🤖 **AI + Security** | � **Compliance** |
+|:---:|:---:|:---:|:---:|
+| Penetration testing | Azure hardening | AI vuln classification | SOC 2 readiness |
+| Attack path analysis | Container security | Automated threat detection | Policy automation |
+| Exploit validation | IAM review | Intelligent orchestration | Audit preparation |
 
-Penetration testing, vulnerability assessment, and attack path analysis
-
-</td>
-<td align="center" width="25%">
-
-**☁️ Cloud Security**
-
-Azure infrastructure hardening, container security, and IAM review
-
-</td>
-<td align="center" width="25%">
-
-**🤖 AI + Security**
-
-AI-powered vulnerability classification and automated threat detection
-
-</td>
-<td align="center" width="25%">
-
-**📋 Compliance**
-
-SOC 2 readiness, security policy automation, and audit preparation
-
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
@@ -132,8 +117,8 @@ SOC 2 readiness, security policy automation, and audit preparation
 
 <div align="center">
 
-```
-"The quieter you become, the more you are able to hear." — Kali Linux
+```diff
+@@ "The quieter you become, the more you are able to hear." — Kali Linux @@
 ```
 
 <br>
@@ -141,3 +126,5 @@ SOC 2 readiness, security policy automation, and audit preparation
 ![Profile Views](https://komarev.com/ghpvc/?username=Debugging-UR-Defenses&color=00ff41&style=flat-square&label=views)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:161b22,100:0d1117&height=120&section=footer" width="100%" />
