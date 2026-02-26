@@ -1,28 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00ff41,100:00d4ff&height=200&section=header&text=Debugging-UR-Defenses&fontSize=40&fontColor=00ff41&fontAlignY=55&animation=twinkling" width="100%" />
-
-</div>
-
-<div align="center">
-
 <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.gif" width="100%" />
 
-</div>
+<br>
 
-<div align="center">
+# ⚡ DEBUGGING-UR-DEFENSES ⚡
 
 <a href="https://github.com/Debugging-UR-Defenses">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1200&pause=400&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=160&lines=%24+whoami;%E2%94%94%E2%94%80%E2%94%80+Kallian+Wilson+%7C+Security+Engineer;%24+cat+%2Fetc%2Fmotd;%E2%94%94%E2%94%80%E2%94%80+I+break+things+so+you+don't+have+to;%24+_" alt="Typing SVG" />
 </a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 </div>
 
@@ -41,7 +27,7 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 </div>
 
@@ -96,14 +82,6 @@ const kallian = {
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -131,39 +109,11 @@ const kallian = {
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Debugging-UR-Defenses&bg_color=0d1117&color=00ff41&line=00d4ff&point=00ff41&area=true&area_color=00ff41&hide_border=true" width="95%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 </div>
 
 <br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&height=50&lines=find+me+where+the+packets+flow" alt="Footer" />
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00ff41,100:00d4ff&height=150&section=footer&animation=twinkling" width="100%" />
-
-</div>
 
 <div align="center">
 
