@@ -1,13 +1,9 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.gif" width="100%" />
-
-<br>
-
 # ⚡ DEBUGGING-UR-DEFENSES ⚡
 
 <a href="https://github.com/Debugging-UR-Defenses">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1200&pause=400&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=160&lines=%24+whoami;%E2%94%94%E2%94%80%E2%94%80+Kallian+Wilson+%7C+Security+Engineer;%24+cat+%2Fetc%2Fmotd;%E2%94%94%E2%94%80%E2%94%80+I+break+things+so+you+don't+have+to;%24+_" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1200&pause=400&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=160&lines=%24+whoami;%E2%94%94%E2%94%80%E2%94%80+Debugging-UR-Defenses+%7C+Security+Engineer;%24+cat+%2Fetc%2Fmotd;%E2%94%94%E2%94%80%E2%94%80+I+break+things+so+you+don't+have+to;%24+_" alt="Typing SVG" />
 </a>
 
 </div>
@@ -33,27 +29,6 @@
 
 <br>
 
-<div align="center">
-<table>
-<tr>
-<td>
-
-```js
-const kallian = {
-    role:     "Security Engineer",
-    sector:   "Cloud",
-    focus:    ["Offensive Security",
-               "AI-Assisted Pentesting",
-               "Cloud Infrastructure"],
-    approach: "Automate the hunt. Exploit the gaps.",
-    motto:    "If it has an API, it has an attack surface."
-};
-```
-
-</td>
-</tr>
-</table>
-</div>
 
 <br>
 
