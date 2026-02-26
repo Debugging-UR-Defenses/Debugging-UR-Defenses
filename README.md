@@ -1,20 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:00d4ff&height=220&section=header&text=Debugging-UR-Defenses&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=security%20engineer%20%7C%20breaker%20of%20things%20%7C%20builder%20of%20tools&descSize=16&descColor=00d4ff&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00ff41,100:00d4ff&height=200&section=header&text=Debugging-UR-Defenses&fontSize=40&fontColor=00ff41&fontAlignY=55&animation=twinkling" width="100%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.gif" width="100%" />
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/Debugging-UR-Defenses">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1200&pause=400&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=160&lines=%24+whoami;%E2%94%94%E2%94%80%E2%94%80+Kallian+Wilson+%7C+Security+Engineer;%24+cat+%2Fetc%2Fmotd;%E2%94%94%E2%94%80%E2%94%80+I+break+things+so+you+don't+have+to;%24+_" alt="Typing SVG" />
+</a>
+
+</div>
 
 <br>
 
-<a href="https://github.com/Debugging-UR-Defenses">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1500&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=150&lines=%24+whoami;%E2%94%94%E2%94%80%E2%94%80+Kallian+Wilson+%7C+Security+Engineer;%24+cat+%2Fetc%2Fmotd;%E2%94%94%E2%94%80%E2%94%80+I+break+things+so+you+don't+have+to;%24+_" alt="Typing SVG" />
-</a>
-
-<br><br>
+<div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
-<br>
-
 </div>
+
+<br>
 
 <div align="center">
 
@@ -22,6 +34,14 @@
 ![Cloud Security](https://img.shields.io/badge/CLOUD_SECURITY-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AI + Pentesting](https://img.shields.io/badge/AI_+_PENTESTING-6C3FC5?style=for-the-badge&logo=openai&logoColor=00ff41)
 ![Red Team](https://img.shields.io/badge/RED_TEAM-CC0000?style=for-the-badge&logo=hackaday&logoColor=white)
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" />
 
 </div>
 
@@ -76,6 +96,26 @@ const kallian = {
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+<br>
+
+<div align="center">
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Debugging-UR-Defenses&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00d4ff&text_color=c9d1d9&ring_color=00ff41" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Debugging-UR-Defenses&theme=dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00d4ff&currStreakNum=00ff41&currStreakLabel=00d4ff&sideNums=00ff41&sideLabels=c9d1d9&dates=555555" />
 
@@ -91,6 +131,14 @@ const kallian = {
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Debugging-UR-Defenses&bg_color=0d1117&color=00ff41&line=00d4ff&point=00ff41&area=true&area_color=00ff41&hide_border=true" width="95%" />
 
 </div>
@@ -99,20 +147,23 @@ const kallian = {
 
 <div align="center">
 
-```
- ██████╗ ██████╗ ███╗   ██╗████████╗ █████╗  ██████╗████████╗
-██╔════╝██╔═══██╗████╗  ██║╚══██╔══╝██╔══██╗██╔════╝╚══██╔══╝
-██║     ██║   ██║██╔██╗ ██║   ██║   ███████║██║        ██║   
-██║     ██║   ██║██║╚██╗██║   ██║   ██╔══██║██║        ██║   
-╚██████╗╚██████╔╝██║ ╚████║   ██║   ██║  ██║╚██████╗   ██║   
- ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝   ╚═╝   
-```
-
-*find me where the packets flow*
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:00d4ff&height=120&section=footer" width="100%" />
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&height=50&lines=find+me+where+the+packets+flow" alt="Footer" />
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00ff41,100:00d4ff&height=150&section=footer&animation=twinkling" width="100%" />
+
+</div>
 
 <div align="center">
 
