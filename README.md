@@ -5,14 +5,14 @@
 <br>
 
 <a href="https://github.com/Debugging-UR-Defenses">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1500&pause=800&color=00FF41&center=true&vCenter=true&repeat=true&width=750&height=70&lines=%24+whoami+%E2%86%92+Kallian+Wilson;%24+role+%E2%86%92+Security+Engineer;%24+motto+%E2%86%92+I+break+things+so+you+don't+have+to" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1500&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=150&lines=%24+whoami;%E2%94%94%E2%94%80%E2%94%80+Kallian+Wilson+%7C+Security+Engineer;%24+cat+%2Fetc%2Fmotd;%E2%94%94%E2%94%80%E2%94%80+I+break+things+so+you+don't+have+to;%24+_" alt="Typing SVG" />
 </a>
 
-<br><br><br>
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
 <br><br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+
+<br>
 
 </div>
 
