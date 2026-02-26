@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:00d4ff&height=220&section=header&text=Debugging-UR-Defenses&fontSize=42&fontColor=00ff41&fontAlignY=35&desc=security%20engineer%20%7C%20breaker%20of%20things%20%7C%20builder%20of%20tools&descSize=16&descColor=00d4ff&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:00d4ff&height=220&section=header&text=Debugging-UR-Defenses&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=security%20engineer%20%7C%20breaker%20of%20things%20%7C%20builder%20of%20tools&descSize=16&descColor=00d4ff&descAlignY=55&animation=fadeIn" width="100%" />
+
+<br><br>
 
 <a href="https://github.com/Debugging-UR-Defenses">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%24+whoami;Kallian+Wilson+%7C+Security+Engineer;%24+cat+%2Fetc%2Fmotd;I+break+things+so+you+don't+have+to." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%24+whoami;Kallian+Wilson+%7C+Security+Engineer;%24+cat+%2Fetc%2Fmotd;I+break+things+so+you+don't+have+to." alt="Typing SVG" />
 </a>
 
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
 
