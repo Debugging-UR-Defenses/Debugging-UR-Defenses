@@ -2,15 +2,19 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:00d4ff&height=220&section=header&text=Debugging-UR-Defenses&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=security%20engineer%20%7C%20breaker%20of%20things%20%7C%20builder%20of%20tools&descSize=16&descColor=00d4ff&descAlignY=55&animation=fadeIn" width="100%" />
 
-<br><br>
+<br>
 
 <a href="https://github.com/Debugging-UR-Defenses">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%24+whoami;Kallian+Wilson+%7C+Security+Engineer;%24+cat+%2Fetc%2Fmotd;I+break+things+so+you+don't+have+to." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1500&pause=800&color=00FF41&center=true&vCenter=true&repeat=true&width=750&height=70&lines=%24+whoami+%E2%86%92+Kallian+Wilson;%24+role+%E2%86%92+Security+Engineer;%24+motto+%E2%86%92+I+break+things+so+you+don't+have+to" alt="Typing SVG" />
 </a>
 
-</div>
+<br><br><br>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 <br><br>
+
+</div>
 
 <div align="center">
 
