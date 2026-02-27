@@ -50,27 +50,25 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=2000&color=3B82F6&center=true&vCenter=true&repeat=true&width=400&height=30&lines=%F0%9F%9B%A1%EF%B8%8F+Currently+Building" alt="Currently Building" />
-
-<br><br>
-
-**Knight Agent** — AI-powered penetration testing platform
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,30&height=2&section=header" width="80%" />
 
 <br>
 
-_Helping startups understand their attack surface, automate security testing, and achieve compliance faster._
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=2000&color=3B82F6&center=true&vCenter=true&repeat=true&width=500&height=35&lines=%F0%9F%94%B7+CURRENTLY+BUILDING+%F0%9F%94%B7" alt="Currently Building" />
 
 <br>
 
-`Reconnaissance` · `Vulnerability Assessment` · `Compliance Automation` · `AI Classification`
+<a href="https://github.com/Debugging-UR-Defenses">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Knight%20Agent&align=center&titleAlign=center&lineCount=2&theme=github_dark&bg=%230d1117&badge=%231e3a5f&border=%233b82f6&titleColor=%233b82f6&line1=openai,AI%20Engine,412991;fastapi,FastAPI,009688;postgresql,PostgreSQL,4169E1;docker,Docker,2496ED&line2=react,Dashboard,61DAFB;nuclei,Nuclei,7C3AED;nmap,Nmap,00FF41;python,Python,3776AB" alt="Knight Agent Stack" />
+</a>
 
-</td>
-</tr>
-</table>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=4000&pause=2000&color=6B7280&center=true&vCenter=true&repeat=false&width=600&height=25&lines=AI-powered+pentesting+platform+for+startups+%E2%80%A2+Compliance+%E2%80%A2+Attack+Surface+Discovery" alt="Knight Agent Tagline" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,30&height=2&section=header" width="80%" />
 
 </div>
 
