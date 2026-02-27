@@ -46,6 +46,36 @@
 
 <br>
 
+<!-- ═══════════════════ KNIGHT AGENT ═══════════════════ -->
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=2000&color=3B82F6&center=true&vCenter=true&repeat=true&width=400&height=30&lines=%F0%9F%9B%A1%EF%B8%8F+Currently+Building" alt="Currently Building" />
+
+<br><br>
+
+**Knight Agent** — AI-powered penetration testing platform
+
+<br>
+
+_Helping startups understand their attack surface, automate security testing, and achieve compliance faster._
+
+<br>
+
+`Reconnaissance` · `Vulnerability Assessment` · `Compliance Automation` · `AI Classification`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
 <!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
 
 <div align="center">
