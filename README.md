@@ -1,99 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00ff41&height=180&section=header" width="100%" />
-
 <a href="https://github.com/Debugging-UR-Defenses">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=600&height=60&lines=%3E_+Debugging-UR-Defenses" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=600&height=70&lines=%3E_+Debugging-UR-Defenses" alt="Typing SVG" />
 </a>
 
-<br>
-
-<a href="https://github.com/Debugging-UR-Defenses">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3000&pause=1500&color=00d4ff&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Security+Engineer+%E2%80%A2+Cloud+%E2%80%A2+Offensive+Security+%E2%80%A2+AI+Pentesting" alt="Subtitle" />
-</a>
-
-</div>
-
-<br>
-
-<!-- ═══════════════════ ABOUT ═══════════════════ -->
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="60%" />
-</div>
-
-<table align="center">
-<tr>
-<td>
-
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Awal/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="25" /> &nbsp; About</h3>
-
-```diff
-+ I build tools that find vulnerabilities before attackers do.
-```
-
-Security engineer focused on **cloud infrastructure** and **offensive security tooling**. I design and build AI-assisted penetration testing systems that automate reconnaissance, vulnerability assessment, and exploit validation at scale.
-
-🔬 **Currently building** → autonomous security scanning platforms that combine traditional pentesting tools with AI-powered classification engines — turning raw tool output into actionable intelligence.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- ═══════════════════ WHAT I BUILD ═══════════════════ -->
-
-<table align="center">
-<tr>
-<td width="50%">
-
-<h3>🔴 &nbsp; Offensive Tooling</h3>
-
-```python
-# The stack I use to break things
-offensive = {
-    "recon":      ["Nmap", "Nuclei", "ffuf"],
-    "exploit":    ["SQLMap", "Metasploit", "Hydra"],
-    "analysis":   ["Burp Suite", "Wireshark", "Nikto"],
-    "automation": ["Python", "Bash", "Docker"],
-}
-```
-
-> _Building security testing frameworks that chain tools together with intelligent orchestration and AI-powered result classification._
-
-</td>
-<td width="50%">
-
-<h3>🔵 &nbsp; Platform Engineering</h3>
-
-```javascript
-// The stack I use to build things
-const platform = {
-    backend:  ["Python", "FastAPI", "PostgreSQL"],
-    frontend: ["React", "TypeScript", "Tailwind"],
-    infra:    ["Docker", "Azure", "Kubernetes"],
-    ci_cd:    ["GitHub Actions", "Nginx"],
-};
-```
-
-> _Full-stack security platforms with real-time dashboards, compliance reporting, and automated remediation workflows._
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- ═══════════════════ FOCUS AREAS ═══════════════════ -->
-
-<div align="center">
-
-| 🔴 **Red Team** | ☁️ **Cloud Security** | 🤖 **AI + Security** | � **Compliance** |
-|:---:|:---:|:---:|:---:|
-| Penetration testing | Azure hardening | AI vuln classification | SOC 2 readiness |
-| Attack path analysis | Container security | Automated threat detection | Policy automation |
-| Exploit validation | IAM review | Intelligent orchestration | Audit preparation |
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=4000&pause=2000&color=00d4ff&center=true&vCenter=true&repeat=false&width=500&height=25&lines=Security+Engineer+%E2%80%A2+Offensive+Security+%E2%80%A2+AI+Pentesting" alt="Subtitle" />
 
 </div>
 
@@ -113,18 +24,48 @@ const platform = {
 
 <br>
 
+<!-- ═══════════════════ SKILLS ICONS ═══════════════════ -->
+
+<div align="center">
+
+<a href="https://github.com/Debugging-UR-Defenses">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Offensive%20Stack&align=center&titleAlign=center&lineCount=2&theme=github_dark&line1=python,Python,3776AB;bash,Bash,4EAA25;docker,Docker,2496ED;linux,Linux,FCC624&line2=kalilinux,Kali,557C94;burpsuite,Burp,FF6633;wireshark,Wireshark,1679A7;metasploit,Metasploit,2596CD" alt="Offensive Stack" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/Debugging-UR-Defenses">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Platform%20Stack&align=center&titleAlign=center&lineCount=2&theme=github_dark&line1=react,React,61DAFB;typescript,TypeScript,3178C6;tailwindcss,Tailwind,06B6D4;postgresql,PostgreSQL,4169E1&line2=fastapi,FastAPI,009688;azure,Azure,0078D4;kubernetes,K8s,326CE5;nginx,Nginx,009639" alt="Platform Stack" />
+</a>
+
+</div>
+
+<br>
+
+<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
+
+<div align="center">
+
+<a href="https://github.com/Debugging-UR-Defenses">
+  <img src="https://github-profile-trophy.vercel.app/?username=Debugging-UR-Defenses&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=15&margin-h=15" alt="Trophies" />
+</a>
+
+</div>
+
+<br>
+
 <!-- ═══════════════════ FOOTER ═══════════════════ -->
 
 <div align="center">
 
-```diff
-@@ "The quieter you become, the more you are able to hear." — Kali Linux @@
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=12&duration=4000&pause=3000&color=00FF41&center=true&vCenter=true&repeat=true&width=500&height=20&lines=%22The+quieter+you+become%2C+the+more+you+are+able+to+hear.%22" alt="Quote" />
 
-<br>
+<br><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Debugging-UR-Defenses&color=00ff41&style=flat-square&label=views)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:161b22,100:0d1117&height=120&section=footer" width="100%" />
